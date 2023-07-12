@@ -1,2 +1,1 @@
-shu = zxnklgesngac,ds;
-
+school  =  geography
